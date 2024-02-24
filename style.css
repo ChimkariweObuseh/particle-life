@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  filter: sepia(10%) hue-rotate(270deg) saturate(150%) contrast(150%);
+}
+
+body {
+    background: #343f3e;
+}
